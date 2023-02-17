@@ -1,6 +1,7 @@
-ATTENTION FELLOW MONKEYS!
+Welcome to the Level: 1 Update!
 
-New update may release tomorrow!
-Make sure to join the discord for updates and sneaks-peaks about it.
-https://discord.gg/vkqsxdZYrn
-See you there!
+-UPDATES-
+New entity that can chase you.
+More Fan Art.
+Made it so it can automatically give you a name.
+Much more!
