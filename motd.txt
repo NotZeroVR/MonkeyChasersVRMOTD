@@ -1,8 +1,7 @@
-Horror is finally and fully released!
+New update!
 
-Go to the top of forest and there should be tunnel leading to a mines area!
 -Updates-
-New updated textures.
-Fixed Arm glitching.
-Made trampoline bigger.
-Bug fixes.
+Added a treehouse in jungle
+Fixed holdables to be in hand
+Fixed hands and added an ATM
+Different music for Shop
