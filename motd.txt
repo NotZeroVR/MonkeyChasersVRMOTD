@@ -1,7 +1,8 @@
-Welcome to the Level: 1 Update!
+Horror is finally and fully released!
 
--UPDATES-
-New entity that can chase you.
-More Fan Art.
-Made it so it can automatically give you a name.
-Much more!
+Go to the top of forest and there should be tunnel leading to a mines area!
+-Updates-
+New updated textures.
+Fixed Arm glitching.
+Made trampoline bigger.
+Bug fixes.
