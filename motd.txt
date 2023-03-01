@@ -1,7 +1,1 @@
-Welcome to the Household update!
-
-Looks like the monkeys found some stuff in storage and decided to put them up for sale!
-Get these cosmetics quick because you'll never see them again!
-
--6:41 PM- 2/23/2023
-This update is for fixes only for ice and cosmetics.
+Just a couple of bug fixes, nothing special other than a new skybox and new textures on some materials!
