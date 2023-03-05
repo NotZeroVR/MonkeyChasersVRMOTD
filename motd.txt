@@ -1,7 +1,2 @@
-New update!
-
--Updates-
-Private Rooms Computer!
-Server Booster Bundle Pack!
-Lag Improvements!
-Patches!
+Quick fix for names, also a new leaderboard to see how much people there are in a lobby.
+Private Servers are taken down until further notice.
