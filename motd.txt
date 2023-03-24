@@ -1,6 +1,4 @@
 New update!
 
-Buttons turn red now. (some do.)
-Some updates for Ice Land.
-Voice Chat for Monkey Store should be fixed.
-And more, go check them out!
+Colors are now available, go check them out!
+Please note that this is still in testing.
