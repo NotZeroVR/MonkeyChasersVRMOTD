@@ -1,7 +1,7 @@
-Special Abilities Update!
+New update!
 
-New special abilities in the "Monkey Store" map, go check them out!
-If there are any bugs or glitches with them report it to the discord.
--UPDATES-
-Special Abilities
-Bug fixes
+- UPDATES -
+Updated Computer.
+Added settings for turning.
+New things for moderators and admins.
+Much more!
